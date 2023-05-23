@@ -1,6 +1,10 @@
+### Hi there 👋
 
+[![Josakko GitHub stats](https://github-readme-stats.vercel.app/api?username=Josakko)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josakko)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 **Josakko/Josakko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
